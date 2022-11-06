@@ -1,6 +1,7 @@
 {
     "1": {
         "rpcs": [
+            "https://rpc.etherfair.org/",
             "https://eth-mainnet.g.alchemy.com/v2/demo",
             "https://api.mycryptoapi.com/eth",
             "https://rpc.flashbots.net/",
